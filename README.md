@@ -17,14 +17,11 @@ https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 <li> Sci-kit learn </li>
 
 ## Features explored:
-<li> Sentiment Subjectivity and Polarity
-![](newplot.png)</li>
+<li> Sentiment Subjectivity and Polarity </li>
 <li> Removed Stopwords, punctuation marks and lowered casing: </li>
 <li> Generated Lemmatized and Stemmed versions of news title and body </li> 
-<li> Generated a vocabulary dictionary for the news headlines and plotted a wordcloud plot 
-  Frequent words in real news title![](real.png) <br>Frequent words in fake news title ![](fake.png)</li>
-<li> Generated word count, character count and average length of phrases used in the news body 
- ![](newplot copy.png)</li>
+<li> Generated a vocabulary dictionary for the news headlines and plotted a wordcloud plot</li> 
+<li> Generated word count, character count and average length of phrases used in the news body</li>
 <li> Generated bigrams, trigrams and TF-IDF matrix of the news body content. </li>
 <li> Generated word vector embeddings from pre-trained model GloVe </li>
 <li> Generated encoded tokens with the help of BertWordPieceTokenizer </li>
