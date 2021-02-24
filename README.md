@@ -25,4 +25,4 @@ https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 <li> Generated bigrams, trigrams and TF-IDF matrix of the news body content. </li>
 <li> Generated word vector embeddings from pre-trained model GloVe </li>
 <li> Generated encoded tokens with the help of BertWordPieceTokenizer </li>
-<li> Generated sentiment analysis, Name Entity Recognizers and Summary of news body with the help of transformer pipelines</li>
+<li> Generated sentiment analysis, Name Entity Recognizers and Summary of news body </li>
